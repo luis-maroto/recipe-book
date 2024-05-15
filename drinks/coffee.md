@@ -2,3 +2,4 @@
 - Coffee
 - Water
 - Milk (optional)
+- Ice
